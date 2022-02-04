@@ -1,17 +1,11 @@
-# nuvigator_experts_club
+<img src="https://storage.googleapis.com/golden-wind/experts-club/capa-github.svg" />
 
-A new Flutter project.
+# Criando Fluxo com Navigator 2.0
 
-## Getting Started
+Nesse vídeo vemos como criar um fluxo de navegacao entre telas utilizando o navigator 2.0, dessa forma conseguimos criar um fluxo fechado que é capaz de controlar seu próprio estado de forma individual e sem interferencia externa.
 
-This project is a starting point for a Flutter application.
+## Expert
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# navigator-2-flow-2022-02-04
+| [<img src="https://avatars.githubusercontent.com/u/23418948?s=460&u=da2788c88f381c94c419ac3f615324bfdbea807e&v=4" width="75px;"/>](https://github.com/RenatoLucasMota) |
+| :-: |
+|[Renato Mota](https://github.com/RenatoLucasMota)|
